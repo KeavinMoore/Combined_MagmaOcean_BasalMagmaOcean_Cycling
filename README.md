@@ -1,4 +1,4 @@
-# Combined_MagmaOcean_Cycling
+# Combined_MagmaOcean_BasalMagmaOcean_Cycling
 
 
 NOTE: The magma ocean + deep-water cycling model (sans basal magma ocean) presented here, and within Moore, Cowan, and Boukaré (2023, MNRAS), has since been updated. Users interested in using the combined magma ocean + deep-water cycling + water loss to space model should instead download the version in the repository "waterevolution_superearths", which includes a README file. This newer version of the model, presented within Moore et al. (2024, ApJ), has been made more user-friendly through the help of two undergraduate students during their senior thesis project. However, interested users wanting to explore the impact of the basal magma ocean --- detailed in Moore, Cowan, and Boukaré (2023, MNRAS) --- should still try the two model notebooks within this repository.
